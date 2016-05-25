@@ -28,12 +28,12 @@
 | Continuous Delivery     |        |        | Beine  |
 | GUI Bloopern            |        | Briem  |        |
 | UI Entwicklung          |        | Briem  |        |
-| Usability Testing       |        | Briem  |        |
-| Paper Prototyping       |        | Briem  |        |
-| GUI Tests               |        | Briem  |        |
+| Usability Evaluation    |        | Briem  |        |
+| GUI Coding              |        | Briem  |        |
 | Big Data                |        | Briem  |        |
 | MapReduce               |        | Briem  |        |
 | Programming Principles  | Linder |        |        |
 | Refactoring Refactoring | Linder |        |        |
 | Entwurfsmuster          | Linder |        |        |
 | Unit Tests              | Linder |        |        |
+
