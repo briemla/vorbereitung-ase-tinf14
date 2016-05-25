@@ -20,20 +20,20 @@
 |         |                         |**60**|
 
 ## Themen TINF14
-| Thema                   | B1     | B2     | B4     |
-| ----------------------- | ------ | ------ | ------ |
-| Domain Driven Design    |        |        | Beine  |
-| DevOps                  |        |        | Beine  |
-| 12-Factor Apps          |        |        | Beine  |
-| Continuous Delivery     |        |        | Beine  |
-| GUI Bloopern            |        | Briem  |        |
-| UI Entwicklung          |        | Briem  |        |
-| Usability Evaluation    |        | Briem  |        |
-| GUI Coding              |        | Briem  |        |
-| Big Data                |        | Briem  |        |
-| MapReduce               |        | Briem  |        |
-| Programming Principles  | Linder |        |        |
-| Refactoring Refactoring | Linder |        |        |
-| Entwurfsmuster          | Linder |        |        |
-| Unit Tests              | Linder |        |        |
+| Thema                   | B1      | B2     | B4     |
+| ----------------------- | ------  | ------ | ------ |
+| Domain Driven Design    |         |        | Beine  |
+| DevOps                  |         |        | Beine  |
+| 12-Factor Apps          |         |        | Beine  |
+| Continuous Delivery     |         |        | Beine  |
+| GUI Bloopern            |         | Briem  |        |
+| UI Entwicklung          |         | Briem  |        |
+| Usability Evaluation    |         | Briem  |        |
+| GUI Coding              |         | Briem  |        |
+| Big Data                |         | Briem  |        |
+| MapReduce               |         | Briem  |        |
+| Programming Principles  | Lindner |        |        |
+| Refactoring Refactoring | Lindner |*Briem* |        |
+| Entwurfsmuster          | Lindner |        |        |
+| Unit Tests              | Lindner |*Briem* |        |
 
