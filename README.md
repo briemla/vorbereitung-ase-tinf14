@@ -1,22 +1,20 @@
 # Vorbereitung ASE TINF14
 ## Themen TINF13
-### Beine
-* Domain Driven Design
-* DevOps
-* 12-Factor Apps
-* Continuous Delivery
-
-### Briem
-* GUI Bloopern
-* UI Entwicklung
-* Usability Testing
-* Paper Prototyping
-* GUI Tests
-* Big Data
-* MapReduce
-
-### Lindner
-* Programming Principles
-* Refactoring Refactoring
-*	Entwurfsmuster
-*	Unit Tests
+| Dozent  | Thema                   | SWS  |
+| ------- | ----------------------- | ----:|
+| Beine   | Domain Driven Design    | 12   |
+|         | DevOps                  | 4    |
+|         | 12-Factor Apps          | 2    |
+|         | Continuous Delivery     | 2    |
+| Briem   | GUI Bloopern            | 4    |
+|         | UI Entwicklung          | 2    |
+|         | Usability Testing       | 2    |
+|         | Paper Prototyping       | 2    |
+|         | GUI Tests               | 2    |
+|         | Big Data                | 4    |
+|         | MapReduce               | 4    |
+| Lindner | Programming Principles  | 6    |
+|         | Refactoring Refactoring | 6    |
+|         |	Entwurfsmuster          | 4    |
+|         |	Unit Tests              | 4    |
+|         |                         |**60**|
