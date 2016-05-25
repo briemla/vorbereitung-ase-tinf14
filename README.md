@@ -1,6 +1,5 @@
 # Vorbereitung ASE TINF14
 ## Themen TINF13
-## Vorlesungsinhalt
 ### Beine
 * Domain Driven Design
 * DevOps
