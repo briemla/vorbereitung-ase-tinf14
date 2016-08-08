@@ -30,7 +30,7 @@
 | Continuous Delivery     |              |            | Beine        |       |
 | OWASP -Top 25           |              |            |              |       |
 | **Sternchenthemen**     |              |            |              |       |
-| Domain Driven Design    | WS - Beine   | WS - Beine | WS - Beine   | 6     |
+| Domain Driven Design    | WS - Beine   | WS - Beine | WS - Beine   | 12    |
 | DevOps                  |              |            | Beine        |       |
 | 12-Factor Apps          |              |            | Beine        |       |
 | GUI Bloopern            |              | WS - Briem |              | 4     |
