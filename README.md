@@ -14,26 +14,29 @@
 |         | Big Data                | 4    |
 |         | MapReduce               | 4    |
 | Lindner | Programming Principles  | 6    |
-|         | Refactoring Refactoring | 6    |
+|         | Refactoring            | 6    |
 |         |	Entwurfsmuster          | 4    |
 |         |	Unit Tests              | 4    |
 |         |                         |**60**|
 
 ## Themen TINF14
-| Thema                   | B1      | B2     | B4     |
-| ----------------------- | ------  | ------ | ------ |
-| Domain Driven Design    |         |        | Beine  |
-| DevOps                  |         |        | Beine  |
-| 12-Factor Apps          |         |        | Beine  |
-| Continuous Delivery     |         |        | Beine  |
-| GUI Bloopern            |         | Briem  |        |
-| UI Entwicklung          |         | Briem  |        |
-| Usability Evaluation    |         | Briem  |        |
-| GUI Coding              |         | Briem  |        |
-| Big Data                |         | Briem  |        |
-| MapReduce               |         | Briem  |        |
-| Programming Principles  | Lindner |        |        |
-| Refactoring Refactoring | Lindner |*Briem* |        |
-| Entwurfsmuster          | Lindner |        |        |
-| Unit Tests              | Lindner |*Briem* |        |
-
+| Thema                   | B1           | B2         | B4           | SWS   |
+| ----------------------- | ------       | ------     | -------      | ----- |
+| **Grundlagen**          |              |            |              |       |
+| Unit Tests              | WS - Lindner | WS - Briem | WS - Briem   | 6     |
+| Entwurfsmuster          | WS - Lindner |            | WS - Lindner | 6     |
+| Refactoring             | WS - Lindner | WS - Briem | WS - Briem   | 6     |
+| Programming Principles  | WS - Lindner |            | WS - Lindner | 6     |
+| Continuous Delivery     |              |            | Beine        |       |
+| OWASP -Top 25           |              |            |              |       |
+| **Sternchenthemen**     |              |            |              |       |
+| Domain Driven Design    | WS - Beine   | WS - Beine | WS - Beine   | 6     |
+| DevOps                  |              |            | Beine        |       |
+| 12-Factor Apps          |              |            | Beine        |       |
+| GUI Bloopern            |              | WS - Briem |              | 4     |
+| UI Entwicklung          |              | WS - Briem |              | 2     |
+| Usability Evaluation    |              | WS - Briem |              | 4     |
+| GUI Coding              |              | WS - Briem |              | 2     |
+| Big Data                |              | Briem      |              |       |
+| MapReduce               |              | Briem      |              |       |
+| **WS**                  | **36**       | **36**     | **36**       |       |
